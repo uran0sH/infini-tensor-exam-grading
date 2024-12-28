@@ -1,0 +1,4 @@
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/uran0sH/learning-cxx.git
+	branch = 2024-winter
